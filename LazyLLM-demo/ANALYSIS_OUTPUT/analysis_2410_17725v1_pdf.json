@@ -1,0 +1,38 @@
+{
+  "export_time": "2025年（终端版无实时时间，可自行补充）",
+  "paper_info": {
+    "paper_name": "2410.17725v1.pdf（PDF（优先分析））",
+    "paper_path": "C:\\25\\DOCS\\2410.17725v1.pdf",
+    "status": "valid",
+    "file_ext": ".pdf",
+    "index": 2
+  },
+  "is_yolo_related": false,
+  "analysis_result": {
+    "paper_title": "从首页提取（LLM格式错误）：YOLO V11: A NOVERVIEW OF THE KEYARCHITECTURAL\nENHANCEMENTS\nRahima Khanam*and Muhammad Hussain",
+    "is_yolo_related": "否",
+    "innovation_point": {
+      "core_innovation": "非YOLO系列论文，无需提取",
+      "innovation_value": "非YOLO系列论文，无需提取",
+      "pseudo_code": "非YOLO系列论文，无需生成"
+    },
+    "math_derivation": {
+      "key_formulas": "非YOLO系列论文，无需提取",
+      "derivation_steps": "非YOLO系列论文，无需提取",
+      "math_advantage": "非YOLO系列论文，无需提取"
+    },
+    "reproduction_steps": {
+      "data_prep": "非YOLO系列论文，无需提取",
+      "env_config": "非YOLO系列论文，无需提取",
+      "hardware_req": "非YOLO系列论文，无需提取",
+      "core_steps": "非YOLO系列论文，无需提取",
+      "code_info": "非YOLO系列论文，无需提取"
+    },
+    "comparison_experiments": {
+      "compared_methods": "非YOLO系列论文，无需提取",
+      "evaluation_metrics": "非YOLO系列论文，无需提取",
+      "key_results": "非YOLO系列论文，无需提取",
+      "experiment_conclusion": "非YOLO系列论文，无需提取"
+    }
+  }
+}
